@@ -44,7 +44,7 @@ const testimonials = [
   {
     id: 2,
     name: "Velizha Sandy Kusuma",
-    role: "Full Stack Developer",
+    role: "Elice APAC - TPM Global Team",
     about: "KADA Alumni Batch 1",
     rating: 5,
     text: "The Industry Visit event through KADA Connect was a game-changer. Met amazing companies and got multiple job offers!",
@@ -61,12 +61,12 @@ const testimonials = [
   },
   {
     id: 4,
-    name: "Samuel Junio Sambuaga",
-    role: "Elice Inc - Tech Business Development",
+    name: "Calista Salsabila Citra Putri Winanto",
+    role: "Elice APAC - Project Manager",
     about: "KADA Alumni Batch 1",
     rating: 5,
-    text: "Good and Fun Networking",
-    avatarSrc: "/story/samuel.png",
+    text: "Being a computer science graduate, I find KADA experience to be extraordinary. It gave me the chance to close the gap between theories I've learned and hands on experience more related to what the industry needs, and I get to meet amazing tech people for intensive discussion. Now, I managed to land my first job thanks to KADA! Truly an unforgettable experience",
+    avatarSrc: "/story/calista.png",
   },
 ];
 
